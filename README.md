@@ -1,6 +1,22 @@
 # ELEVATOR
 
-## Лифт в здании
+## Technologies:
+- JAVA 11+
+- Git
+- Maven
+
+## System requirements
+
+- IntelliJ IDEA
+
+## Configure you env
+
+- Default number of program cycles is 20
+- This number can be changed in "BuildingServiceImpl" by changing "STEPS_TO_VIEW"
+- Load app on your IDE and run it using Main class
+
+## Task
+### Лифт в здании
 
 Необходимо написать приложение без UI(консольное), или с минимальным UI.
 
@@ -69,19 +85,3 @@
 Для консольной программы вывод сделать покадровый - для каждого перемещения лифта один кадр.
 
 Пример вывода, не обязательно делать именно такой.
-
-
-## Technologies:
-- JAVA 11+
-- Git
-- Maven
-
-## System requirements
-
-- IntelliJ IDEA
-
-## Configure you env
-
-- Default number of program cycles is 20 
-- This number can be changed in "BuildingServiceImpl" by changing "STEPS_TO_VIEW"
-- Load app on your IDE and run it using Main class
